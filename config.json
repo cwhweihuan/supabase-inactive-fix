@@ -1,0 +1,8 @@
+[
+  {
+    "name": "TawaEquipment",
+    "supabase_url": "https://zlhmnmtfpvingqtwxcvs.supabase.co",
+    "supabase_key_env": "supabase_key_env",
+    "table_name": "keep-alive"
+  }
+]
